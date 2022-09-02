@@ -24,11 +24,11 @@
 
 ## 😄 Cool Stats
 
-![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorekumar&show_icons=true&theme=radical)
+![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorekumar512&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishorekumar&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishorekumar512&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumar&layout=compact&theme=radical&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumar512&layout=compact&theme=radical&langs_count=6)
 
 <!-- <h3>Where to find me</h3> -->
 <!-- <p> -->
